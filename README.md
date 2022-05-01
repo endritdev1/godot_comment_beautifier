@@ -26,6 +26,6 @@ This charter is coing to be repeated and inglobate your comment inside. So basic
 
 ### Story Behind It
 I'm a gamedev and I'm still learning to use Godot Engine, still learning gamedev and coding in general.
-So I had the need to have an easier and faster way to make better comments and have them look tidy
+So I had the need to have an easier and faster way to make better comments and have them look tidy.
 Looked around and found the work of [@rainlizard /GDScriptMacros ](https://github.com/rainlizard/GDScriptMacros) watched his plugin and learned a lot, he as a very clever approach to it. 
 So last night I made it my self :). Surly there's space to improve it
