@@ -1,5 +1,5 @@
 # godot_comment_beautifier
-Just a way to tide and make comments a little bit cooler
+Just a way to tidy up and make comments a little bit cooler
 
 
 https://user-images.githubusercontent.com/26037455/166150183-b421e63e-d9b1-4656-8290-4c60b2b3ef06.mp4
